@@ -1,6 +1,6 @@
 # End-To-End-Gemini-Project
 
-#Steps
+# Steps:
 1. Create New virtual Envirionment
 2. Run pip install -r requirements.txt
 3. Get GEMINI API Key from Makersuite site and create .env file and create it
